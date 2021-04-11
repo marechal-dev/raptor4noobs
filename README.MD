@@ -8,7 +8,9 @@
   <h1 align="center">Raptor4Noobs</h1>
 
   <h2 align="center">
-    <img src="./assets/raptor.png" alt="Símbolo do Raptor" width="360">
+    <a href="https://raptor.martincarlisle.com/" target="_blank">
+      <img src="./assets/raptor.png" alt="Símbolo do Raptor" width="360">
+    </a>
   </h2>
 
   <p align="center">
