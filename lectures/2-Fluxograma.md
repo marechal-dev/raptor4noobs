@@ -8,8 +8,8 @@
 
 ## Exemplo
 
-<p align="left" style="background-color: #D3D3D3">
-  <img src="../assets/exemplo.png">
+<p align="left">
+  <img src="../assets/exemplo-de-fluxograma.jpg">
 </p>
 
 ---

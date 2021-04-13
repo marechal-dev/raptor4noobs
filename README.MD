@@ -22,9 +22,7 @@
 
 ## Sobre o projeto
 
-<p align="left">
-  O propósito desse repositório, além de contribuir para o projeto 4noobs, é introduzir a lógica de programação e algoritmos para iniciantes na área, utilizando a ferramenta Raptor, que funciona através de fluxogramas.
-</p>
+O propósito desse repositório, além de contribuir para o projeto **_4noobs_**, é introduzir a lógica de programação e algoritmos para iniciantes na área, utilizando a ferramenta Raptor, que funciona através de fluxogramas.
 
 ## Guia
 
