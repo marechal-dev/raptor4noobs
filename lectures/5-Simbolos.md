@@ -109,4 +109,4 @@ Terceiro passo: Vamos testar!
 
 Pronto, temos um pequeno algoritmo que verifica se o número inserido pelo usuário é maior que 5 :D
 
-### Ir para: [Início](/README.md) | [Fazendo um Algoritmo simples](./5-Algoritmo.md)
+### Ir para: [Início](/README.md) | [Fazendo um Algoritmo simples](./6-Algoritmo.md)

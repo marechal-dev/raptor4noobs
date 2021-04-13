@@ -64,4 +64,4 @@ Os símbolos são a parte que será utilizada para criar a lógica do nosso flux
   <img src="../assets/simbolos.png">
 </p>
 
-### Ir para: [Início](/README.md) | [Entendendo a janela principal](./4-Intro.md)
+### Ir para: [Início](/README.md) | [Símbolos](./5-Simbolos.md)
